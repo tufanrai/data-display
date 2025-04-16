@@ -1,0 +1,19 @@
+{
+  "name": "data-responding",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tufanrai/data-display.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tufanrai/data-display/issues"
+  },
+  "homepage": "https://github.com/tufanrai/data-display#readme",
+  "description": ""
+}
